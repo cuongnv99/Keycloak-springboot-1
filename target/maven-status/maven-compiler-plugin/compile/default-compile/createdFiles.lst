@@ -1,0 +1,6 @@
+com\viettel\sso\WebController.class
+com\viettel\sso\SecurityConfig.class
+com\viettel\sso\CustomerDAO.class
+com\viettel\sso\SpringBoot.class
+com\viettel\sso\CustomUserAttrController.class
+com\viettel\sso\Customer.class
